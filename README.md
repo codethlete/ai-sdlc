@@ -23,6 +23,16 @@ Kiểm tra chất lượng được thực hiện trong từng stage. Dự án c
 - Phân biệt cách chúng ta thực hiện dự án với bộ tài liệu hướng dẫn được tạo ra để đội ngũ áp dụng.
 - Mỗi stage có đầu ra cụ thể và được Human duyệt trước khi chuyển sang stage tiếp theo.
 
+### Làm rõ cách học và thực hành — 2026-09-14
+
+- Mỗi stage có một chat riêng: trước hết hiểu hướng dẫn trong bài viết, gồm các bước, output, quản trị, đo lường và lý do; sau đó thực hành và đúc kết runbook.
+- Việc tìm hiểu và áp dụng từng stage được xem như một feature của dự án xây dựng bộ hướng dẫn.
+- Đã thống nhất hướng thực hành Plan từ một ticket Redmine của dự án đang chạy; chưa chọn ticket cụ thể.
+- Yêu cầu của Human: có thể bắt đầu áp dụng runbook mà không phải chuẩn bị sẵn bộ project context. Context cần thiết được hỏi và bổ sung theo tình huống; AI không tự điền thông tin thiếu.
+- Human xác nhận việc phải xây dựng project context là một trở ngại lớn khi áp dụng vào dự án đang chạy. Khả năng đáp ứng yêu cầu trên cần được kiểm chứng khi thực hành; chưa kết luận cho mọi stage.
+- Yêu cầu của Human: runbook không phụ thuộc công cụ cụ thể. Học tinh thần và ý tưởng từ bài viết, điều chỉnh để áp dụng với các AI coding tool khác nhau; không mặc định phải dùng Claude hoặc Claude Code.
+- Hướng dẫn chung cần mô tả mục đích, vai trò Human/AI, đầu vào, đầu ra và cách kiểm tra. Lệnh hoặc tính năng riêng của công cụ, nếu có, chỉ là ví dụ và phải được ghi rõ; không mặc định mọi công cụ có cùng khả năng.
+
 Trong dự án này, Build tập trung vào bộ tài liệu thực hành. Việc áp dụng cho Build phần mềm cần được kiểm chứng tiếp trên một thay đổi nhỏ của dự án thực tế.
 
 ## Quy ước cộng tác
