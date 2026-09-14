@@ -1,6 +1,6 @@
 # Tìm hiểu và áp dụng AI Native SDLC vào quy trình hiện tại
 
-**Trạng thái:** Chuẩn bị — chưa bắt đầu stage Plan.
+**Trạng thái:** Đang thực hiện stage Plan — bản nháp chưa duyệt, chưa chuyển sang Design.
 
 ## Bối cảnh và mục đích
 
@@ -32,11 +32,13 @@ Trong dự án này, Build tập trung vào bộ tài liệu thực hành. Việ
 - Ưu tiên nội dung ngắn gọn, rõ ràng, ít thủ tục và dễ áp dụng.
 - Các chi tiết chưa xác định sẽ được làm rõ trong stage tương ứng, không tự coi là đã thống nhất.
 
-## Trạng thái chuẩn bị
+## Trạng thái tài liệu
 
 README này ghi lại những thống nhất ban đầu, chưa thay thế cho đầu ra của stage Plan.
 
-Các tài liệu `intent.md`, `spec.md` và `plan.md` sẽ được tạo khi thực hiện đến bước tương ứng. Vấn đề cụ thể, người dùng runbook và tiêu chí thành công sẽ được làm rõ trong Plan.
+[intent.md](intent.md) là bản nháp đang trao đổi trong stage Plan; chưa được duyệt. Vấn đề cụ thể, người dùng runbook và tiêu chí thành công đang chờ làm rõ.
+
+Các tài liệu `spec.md` và `plan.md` sẽ được tạo khi thực hiện đến bước tương ứng. Theo tài liệu tham khảo, `plan.md` là kế hoạch thực hiện thuộc Build, khác với stage Plan đang thực hiện ở đây.
 
 ## Tài liệu tham khảo
 
