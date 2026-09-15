@@ -15,11 +15,11 @@ Tập trung lần lượt **Plan → Design → Build**, mỗi stage một chat 
 
 ## Nguyên tắc cộng tác
 
-- Giữ nội dung ngắn gọn, rõ ràng, ít thủ tục; ưu tiên một câu hỏi quan trọng nhất mỗi lần.
+- Giữ nội dung ngắn gọn, rõ ràng, ít thủ tục; mỗi lượt hỏi tối đa 3 câu, ưu tiên những điều cần làm rõ để tiếp tục, không gộp nhiều câu hỏi nhỏ vào một câu.
 - Học tinh thần và ý tưởng từ bài viết, phân biệt với đề xuất của AI và điều chỉnh theo thực tế do Human cung cấp.
 - Việc phải chuẩn bị project context trước khi có thể áp dụng AI là một trở ngại lớn, đặc biệt với dự án đang chạy. Runbook cần giúp bắt đầu từ thông tin sẵn có; AI hỏi bổ sung khi cần, ghi lại câu trả lời, đánh dấu điều chưa rõ và không tự giả định.
 - Human cung cấp thực tế, quyết định và duyệt; AI hỏi, phân tích, soạn thảo và kiểm tra.
-- Runbook mô tả mục đích, vai trò Human/AI, đầu vào, đầu ra và cách kiểm tra, không phụ thuộc công cụ. Lệnh hoặc tính năng riêng chỉ là ví dụ; không mặc định mọi công cụ có cùng khả năng.
+- Runbook hướng dẫn đội ngũ thực hiện từng stage: bắt đầu từ đâu, Human/AI làm gì, tạo đầu ra nào và kiểm tra ra sao. Hướng dẫn không phụ thuộc công cụ cụ thể; lệnh hoặc tính năng riêng chỉ dùng để minh họa, cần điều chỉnh theo khả năng của công cụ đang dùng.
 - Trước khi tạo tài liệu, giải thích ngắn mục đích và phạm vi. Lưu bản nháp và kết quả, phân biệt nội dung chưa duyệt, đã duyệt và chưa kiểm chứng; không khái quát kết quả một bài thực hành cho mọi dự án hoặc công cụ.
 
 ## Tài liệu tham khảo
