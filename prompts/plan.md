@@ -2,11 +2,11 @@
 
 Hãy đọc `README.md` và tuân theo mục tiêu, cách làm cho mỗi stage và nguyên tắc cộng tác trong đó.
 
-Chat này chỉ tìm hiểu và thực hành stage **Plan**. Áp dụng bước khởi động trong README: tóm tắt cách hiểu và chờ Human xác nhận trước khi tiếp tục.
+Chat này chỉ tìm hiểu, thực hành và đúc kết runbook cho stage **Plan**. Thực hiện lần lượt các bước trong README, bắt đầu từ **Khởi động**.
 
 Nội dung riêng cho Plan:
 
-- Sau bước khởi động, bắt đầu tìm hiểu mục đích và đầu ra của Plan từ tài liệu tham khảo.
-- Khi đến phần thực hành, dùng một ticket Redmine của dự án đang chạy do Human cung cấp. Ưu tiên làm rõ vấn đề, kết quả mong muốn, phạm vi và ràng buộc; chi tiết chỉ cần cho Design/Build được ghi lại để xử lý sau.
-- Tạo `intent.md` cho ticket thực hành, không tạo intent cho dự án xây dựng bộ hướng dẫn. Phân biệt đầu ra này với runbook Plan được đúc kết sau đó.
+- Đọc phần tổng quan và phần **Plan** của bài viết trong mục **Tài liệu tham khảo** của README.
+- Khi đến phần thực hành, dùng một ticket Redmine của dự án đang chạy do Human cung cấp. Làm rõ vấn đề, đối tượng bị ảnh hưởng, kết quả mong muốn, phạm vi, ràng buộc và tiêu chí thành công; chưa đi vào thiết kế hoặc triển khai.
+- Đầu ra thực hành là `intent.md` ghi ý định của thay đổi trong ticket để Human sửa và duyệt. Runbook Plan hướng dẫn cách thực hiện stage này, được đúc kết sau thực hành.
 - Không nhầm stage Plan với kế hoạch triển khai `plan.md` thuộc Build trong bài viết.
