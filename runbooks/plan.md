@@ -129,7 +129,13 @@ Mã/link ticket đặt trong thông tin bản nháp để đối chiếu nếu �
 
 Các ví dụ này là gợi ý, không tự trở thành yêu cầu của mọi task. Với nghiên cứu, nên làm rõ giới hạn thời gian/độ sâu nếu cần để xác định điểm dừng.
 
-## 6. Đánh giá sau khi áp dụng
+## 6. Prompt làm việc giữa Human và AI
+
+Dùng [prompt phát triển và làm rõ nội dung task](../prompts/clarify-task.md). File gồm prompt khởi động và các câu lệnh minh họa cho những lượt tiếp theo.
+
+Copy prompt, thay phần đầu vào bằng ticket hoặc mô tả công việc, rồi trao đổi với AI. Khi cần thay đổi prompt, cập nhật trực tiếp trong file đó.
+
+## 7. Đánh giá sau khi áp dụng
 
 Sau mỗi lần áp dụng, xem lại ba điểm:
 
